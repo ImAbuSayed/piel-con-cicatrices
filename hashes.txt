@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Piel con
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:07:59.777651 | `v1` | `fddd344d88feca77afe962bb0a75e7fa828c63e8aae11e83dff4afcf14d6b2ca` | `a54f5235b08ee9826a76ed40c4ee450e1fd04a2847f750b7aa5f7d127c54de1d` | `2026-06-20_piel-con-cicatrices-v1.txt` |
+| 2026-06-20T01:14:47.861652 | `v2` | `571e5a783b62adb5b7fbedca6bb6e2998c473d53a55dcb36fda71869bb760ee7` | `22064e76dd7e09cc8d1073ef85a3703d8059ba875e97a3dc30fdc0e9929706e1` | `2026-06-20_piel-con-cicatrices-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
