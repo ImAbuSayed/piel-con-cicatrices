@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-con-cicatrices/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Piel con cicatrices](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-cicatrices/) |
+| **Get License** | [Music Rights & Licensing for Piel con cicatrices](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-cicatrices/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3723)
+- [Telegram](https://t.me/AbuSayedMusic/3727)
 
 ---
 
