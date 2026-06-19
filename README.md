@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Piel con cicatrices |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-con-cicatrices/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Official Music Licensing for Piel con cicatrices](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-cicatrices/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tengo tu nombre grabado en mi piel con cicatrices,
-> Dime qué hacemos esta noche si tú lo decides,
-> Las luces de la ciudad nos miran mientras te desvistes,
-> Sabes que soy el único que calma lo que me pides.
+> Piel con cicatrices, marcas de pasión
+> Cada una es un beso, que dejó tu corazón
+> Noches de Madrid, quemando la ciudad
+> Solo tú y yo, bailando en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
