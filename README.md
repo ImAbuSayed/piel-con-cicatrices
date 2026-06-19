@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tengo tu nombre grabado en mi piel con cicatrices,
+> Dime qué hacemos esta noche si tú lo decides,
+> Las luces de la ciudad nos miran mientras te desvistes,
+> Sabes que soy el único que calma lo que me pides.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
